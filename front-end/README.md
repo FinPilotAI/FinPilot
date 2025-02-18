@@ -163,8 +163,8 @@ front-end/                     # Frontend 폴더
 ### Installation Steps
 1. **Repository Clone**
    ```bash
-   git clone -b frontend https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN05-FINAL-3TEAM.git
-   cd main/front-end
+   git clone https://github.com/FinPilotAI/FinPilot.git
+   cd FinPilot/front-end
    ```
 
 2. **Chrome Extension 로드**
@@ -177,11 +177,13 @@ front-end/                     # Frontend 폴더
 ## 🚀 How to Run
 
 1. **Extension 실행**:
+   - Chrome 브라우저에서 우측 상단 FinPilot 확장 아이콘 클릭
+   - 설명에 따라서 로그인까지 진행
    - Google Docs 페이지에서 문서 열기
    - Chrome 브라우저에서 우측 상단 FinPilot 확장 아이콘 우클릭
    - 측면 패널 열기 선택
 
-2. **AI 기능 테스트**:
+3. **AI 기능 테스트**:
    - SidePanel에서 원하는 채팅 옵션 선택 후, 질문 입력
    - 생성된 텍스트 확인
    - apply 버튼으로 생성 텍스트가 Google Docs 문서에 자동으로 반영되는지 확인
