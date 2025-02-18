@@ -117,7 +117,7 @@ FinPilot은 사용자가 요청한 문서의 초안을 효율적으로 작성합
   <img src="https://github.com/user-attachments/assets/5fdad88f-c9c7-4b7b-8866-7420348bd88e" width="450px" />
   <img src="https://github.com/user-attachments/assets/fbe31a3a-4211-4fa9-a4cd-2fb7b0608774" width="640px" />
 </p>
-
+<br>
 
 ### 2. '단락 생성'
 FinPilot은 특정 주제에 대한 단락을 생성하여 문서 초안을 보완하는 데 유용하게 활용할 수 있습니다. 사용자가 참조하고 싶은 PDF 파일을 업로드하면, 해당 문서의 내용을 분석하여 요청에 맞는 단락을 생성합니다. PDF 파일이 제공되지 않은 경우에도, FinPilot은 웹 검색을 통해 관련 자료를 자동으로 찾아 적절한 내용을 작성합니다. 또한, 내부적으로 Self-RAG와 Corrective RAG 아키텍처를 적용하여 환각 현상을 최소화하고 정확한 정보를 제공합니다.
@@ -126,15 +126,14 @@ FinPilot은 특정 주제에 대한 단락을 생성하여 문서 초안을 보�
   <img src="https://github.com/user-attachments/assets/21b7e09e-d851-4083-9538-150ed6c959ba"  width="450px" />
   <img src="https://github.com/user-attachments/assets/2e9e95fd-7c58-4007-b53b-54a5520726dc" width="640px" />
 </p>
-
-
+<br>
 
 ### 3. '요약 및 확장'
 FinPilot은 문서의 특정 부분을 요약하거나 확장하여 사용자가 원하는 형태로 조정할 수 있도록 도와줍니다. 주요 내용을 유지하면서도 간결하게 정리하거나, 보다 풍부한 내용을 구성할 수 있습니다. 이를 통해 문서의 가독성을 높이고, 필요에 따라 효율적으로 분량을 조절할 수 있습니다.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/be7b1344-4b3a-40ff-a452-1e1987c2e8c5"  width="450px" />
 </p>
-
+<br>
 
 ### 4. '웹 데이터 기반 시각화'
 FinPilot은 웹 검색을 통해 수집한 데이터를 분석하고 시각적으로 표현할 수 있도록 도와줍니다. 이를 위해 Python 코드를 자동으로 생성하고 실행하여, 데이터의 특성과 인사이트를 한눈에 이해할 수 있는 적절한 그래프를 제공합니다. 사용자는 생성된 그래프를 활용하여 보다 직관적으로 데이터를 해석하고 의사결정에 활용할 수 있습니다.
@@ -142,6 +141,7 @@ FinPilot은 웹 검색을 통해 수집한 데이터를 분석하고 시각적�
   <img src="https://github.com/user-attachments/assets/4d6daf20-5b1b-41a2-a4bc-317e6b486911"  width="450px" />
   <img src="https://github.com/user-attachments/assets/533a208c-d32f-4ff6-9939-0acb3aa0bf72" width="640px" />
 </p>
+<br>
 
 ### 5. '업로드 데이터 기반 시각화'
 FinPilot은 사용자가 업로드한 CSV 데이터를 활용하여 데이터를 분석하고 시각적으로 표현합니다. Pandas DataFrame을 기반으로 다양한 관점에서 데이터를 처리하며, 이를 효과적으로 시각화할 수 있는 Python 코드를 자동으로 생성하고 실행합니다. 이를 통해 사용자는 데이터를 보다 직관적으로 이해하고, 인사이트를 도출할 수 있습니다.
