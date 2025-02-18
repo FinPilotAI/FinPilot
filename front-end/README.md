@@ -183,7 +183,7 @@ front-end/                     # Frontend 폴더
    - Chrome 브라우저에서 우측 상단 FinPilot 확장 아이콘 우클릭
    - 측면 패널 열기 선택
 
-3. **AI 기능 테스트**:
+2. **AI 기능 테스트**:
    - SidePanel에서 원하는 채팅 옵션 선택 후, 질문 입력
    - 생성된 텍스트 확인
    - apply 버튼으로 생성 텍스트가 Google Docs 문서에 자동으로 반영되는지 확인
