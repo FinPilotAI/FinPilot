@@ -208,9 +208,9 @@ FinPilot/
 
 | 이름       | GitHub | Gmail | Instagram |
 |------------|--------|--------|------------|
-| 서장호 | [GitHub](https://github.com/wkd-gh) | sjh008272@gmail.com | [@wkd_gh](https://www.instagram.com/wkd_gh/) |
-| 최영민 | [GitHub](https://github.com/MartinusChoi) | martinus.choi@gmail.com | [@martinus_choi_](https://instagram.com/martinus_choi_) |
-| 허상호 | [GitHub](https://github.com/greatsangho) | greatsangho@gmail.com | [@greatsangho](https://instagram.com/greatsangho) |
+| 서장호 | [wkd-gh](https://github.com/wkd-gh) | sjh008272@gmail.com | [@wkd_gh](https://www.instagram.com/wkd_gh/) |
+| 최영민 | [MartinusChoi](https://github.com/MartinusChoi) | martinus.choi@gmail.com | [@martinus_choi_](https://instagram.com/martinus_choi_) |
+| 허상호 | [greatsangho](https://github.com/greatsangho) | greatsangho@gmail.com | [@greatsangho](https://instagram.com/greatsangho) |
 
 ---
 
