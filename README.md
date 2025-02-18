@@ -205,7 +205,6 @@ FinPilot/
 ## 🤝 Contributors
 
 [![Contributors](https://contrib.rocks/image?repo=FinPilotAI/FinPilot)](https://github.com/FinPilotAI/FinPilot/graphs/contributors)
-
 | 이름       | GitHub | Gmail | Instagram |
 |------------|--------|--------|------------|
 | 서장호 | [wkd-gh](https://github.com/wkd-gh) | sjh008272@gmail.com | [@wkd_gh](https://www.instagram.com/wkd_gh/) |
